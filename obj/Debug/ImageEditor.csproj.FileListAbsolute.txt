@@ -1,0 +1,6 @@
+E:\Integrant\DP\ImageEditor\bin\Debug\ImageEditor.exe.config
+E:\Integrant\DP\ImageEditor\bin\Debug\ImageEditor.exe
+E:\Integrant\DP\ImageEditor\bin\Debug\ImageEditor.pdb
+E:\Integrant\DP\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+E:\Integrant\DP\ImageEditor\obj\Debug\ImageEditor.exe
+E:\Integrant\DP\ImageEditor\obj\Debug\ImageEditor.pdb
